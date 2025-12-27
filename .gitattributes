@@ -1,0 +1,11 @@
+*.java linguist-language=Java
+
+*.gradle linguist-language=Groovy
+*.groovy linguist-language=Groovy
+
+*.class linguist-detectable=false
+*.jar linguist-detectable=false
+*.war linguist-detectable=false
+
+build/ linguist-detectable=false
+.gradle/ linguist-detectable=fals
